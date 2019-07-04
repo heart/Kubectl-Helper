@@ -1,4 +1,4 @@
-![kubectl fast]https://raw.githubusercontent.com/heart/Kubectl-Helper/master/Fast.png
+![kubectl fast](https://raw.githubusercontent.com/heart/Kubectl-Helper/master/Fast.png)
 
 # Kubectl-Helper
 Fasten your kubectl command
