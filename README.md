@@ -22,22 +22,23 @@ source  YOUR_PATH/kube_helper.sh
 ```
 
 ```
-kcns NAME_SPACE			Set name space
-showns							Show Current Namespace
+kcns NAME_SPACE     Set name space
+showns				Show Current Namespace
 
-getp								Pods List
-getj 								Jobs List
-getn 								Nodes List
-geti 								Ingress List
-gets 								Service List
+getp				Pods List
+getj 				Jobs List
+getn 				Nodes List
+geti 				Ingress List
+gets 				Service List
 
-desp POD_NAME				Describe a Pod
-desj  JOB_NAME			Describe a Job
-desn NODE_NAME			Describe a Node
+desp POD_NAME		Describe a Pod
+desj  JOB_NAME		Describe a Job
+desn NODE_NAME		Describe a Node
 desi  INGRESS_NAME	Describe a Ingress
 dess  SERVICE_NAME	Describe a Service
 
-klog POD_NAME				Get Logs from a Pod
+klog POD_NAME		Get Logs from a Pod
 ```
+
 ![kubectl helper cheat sheet](https://raw.githubusercontent.com/heart/Kubectl-Helper/master/CheatSheet.png)
 
