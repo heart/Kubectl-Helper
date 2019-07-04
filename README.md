@@ -1,3 +1,5 @@
+![kubectl fast]https://raw.githubusercontent.com/heart/Kubectl-Helper/master/Fast.png
+
 # Kubectl-Helper
 Fasten your kubectl command
 Just set the namespace you working with by kcns command.
