@@ -9,10 +9,12 @@ Just set namespace you working with.
 kcns NAME_SPACE
 ```
 
-And when you want to list pods just
+And when you want to list all pods just type
 ```
 getp
 ```
+instead of using full kubectl command `kubectl get pod -n NAME_SPACE`
+
 Easy right?
 
 
