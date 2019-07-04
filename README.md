@@ -15,13 +15,17 @@ getp
 
 
 # How to install
-Download kube_helper.sh.
+Download kube helper
+```
+wget https://raw.githubusercontent.com/heart/Kubectl-Helper/master/kube_helper.sh -O .kube_helper
+```
 
-source kube_helper.sh in to your shell
-or put it at the end of .bash_profile file or .zshrc if you using oh-my-zsh.
+load .kube_helper in to your shell environment.
 ```
-source  YOUR_PATH/kube_helper.sh
+source  .kube_helper
 ```
+You may paste it at the end of `.bash_profile` file or `.zshrc` if you using `oh-my-zsh`.
+
 
 | Command | Description |
 | --- | --- |
