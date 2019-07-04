@@ -1,18 +1,15 @@
-# Kubectl-Helper 
-## Super fast tool for kubectl
- 
-Set the namespace.
+# Kubectl-Helper
+Fasten your kubectl command
+Just set the namespace you working with by kcns command.
 ```
 kcns staging_namespace
 ```
 
-## Don't repeat name space
-
-When you want to get pods just type.
+No need to repeat the namespace.
+When you want to list your pods just type
 ```
 getp
 ```
-
 
 
 # How to install
