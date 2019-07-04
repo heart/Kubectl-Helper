@@ -1,14 +1,14 @@
 ![kubectl fast](https://raw.githubusercontent.com/heart/Kubectl-Helper/master/Fast.png)
 
 # Kubectl-Helper
-Fasten your kubectl command
-Just set the namespace you working with by kcns command.
+Faster kubectl command
+
+One time set name space.
 ```
-kcns staging_namespace
+kcns NAME_SPACE
 ```
 
-No need to repeat the namespace.
-When you want to list your pods just type
+When you want to list pods just
 ```
 getp
 ```
