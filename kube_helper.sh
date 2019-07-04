@@ -52,3 +52,7 @@ function klog(){
  kubectl logs $1 -n $KC_NS
  showns
 }
+#==exec
+function kexec(){
+ kubectl exec -ti $1 $2 -n $KC_NS
+}

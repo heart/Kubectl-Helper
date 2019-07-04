@@ -36,7 +36,7 @@ source  YOUR_PATH/kube_helper.sh
 | `desi  INGRESS_NAME` | Describe a Ingress |
 | `dess  SERVICE_NAME` | Describe a Service |
 | `klog POD_NAME` | Get logs from a Pod |
-
+| `kexec POD_NAME sh` | exec -t -i sh to a Pod |
 
 ![kubectl helper cheat sheet](https://raw.githubusercontent.com/heart/Kubectl-Helper/master/CheatSheet.png)
 
